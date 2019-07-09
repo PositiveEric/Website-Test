@@ -19,7 +19,6 @@ html, body {
 
 body {
     margin: 0;
-    font-size: 16px;
     background-color: var(--background_color_two);
     font-family: 'Roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -31,7 +30,7 @@ a {
 
 .wrapper{
     width: 100%;
-    max-width: 90rem;
+    max-width: 1440px;
     margin: 0 auto;
     background-color: var(--background_color_one);
     border-left: 1px solid var(--border_color);
