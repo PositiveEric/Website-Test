@@ -19,6 +19,7 @@ html, body {
 
 body {
     margin: 0;
+    font-size: 16px;
     background-color: var(--background_color_two);
     font-family: 'Roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
